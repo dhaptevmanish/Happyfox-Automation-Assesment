@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Drivers/selenium-server-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/gson-2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/slf4j-api-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (5)/webdrivermanager-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (6)/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (6)/jquery-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (6)/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manish/Downloads/jar_files (6)/testng-7.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
